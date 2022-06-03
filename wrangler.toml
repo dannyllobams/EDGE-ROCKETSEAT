@@ -1,0 +1,9 @@
+name = "edge-rocketseat"
+main = "src/index.ts"
+compatibility_date = "2022-06-03"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "https://global-real-cobra-30352.upstash.io"
+
+# [secrets]
+# UPSTASH_REDIS_REST_TOKEN
